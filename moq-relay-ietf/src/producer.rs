@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2024-2026 Cloudflare Inc., Luke Curley, Mike English and contributors
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 use futures::{stream::FuturesUnordered, FutureExt, StreamExt};
 use moq_transport::{
     serve::{ServeError, TracksReader},

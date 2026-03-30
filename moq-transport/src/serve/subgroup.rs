@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2024-2026 Cloudflare Inc., Luke Curley, Mike English and contributors
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! A stream is a stream of objects with a header, split into a [Writer] and [Reader] handle.
 //!
 //! A [Writer] writes an ordered stream of objects.

@@ -1,7 +1,10 @@
+# SPDX-FileCopyrightText: 2024-2026 Cloudflare Inc., Luke Curley, Mike English and contributors
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
 [package]
 name = "moq-test-client"
 description = "MoQT Interop Test Client - A standardized test client for interoperability testing"
-authors = ["moq-rs contributors]
+authors = ["moq-rs contributors"]
 repository = "https://github.com/cloudflare/moq-rs"
 license = "MIT OR Apache-2.0"
 
