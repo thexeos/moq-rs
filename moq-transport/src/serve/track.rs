@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024-2026 Cloudflare Inc., Luke Curley, Mike English and contributors
+// SPDX-FileCopyrightText: 2023-2024 Luke Curley and contributors
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! A track is a collection of semi-reliable and semi-ordered streams, split into a [Writer] and [Reader] handle.
 //!
 //! A [Writer] creates streams with a sequence number and priority.

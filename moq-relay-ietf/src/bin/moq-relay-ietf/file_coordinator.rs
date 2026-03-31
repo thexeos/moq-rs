@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2024-2026 Cloudflare Inc., Luke Curley, Mike English and contributors
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! File-based coordinator for multi-relay deployments.
 //!
 //! This coordinator uses a shared JSON file with file locking to coordinate
